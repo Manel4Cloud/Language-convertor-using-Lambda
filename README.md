@@ -135,7 +135,7 @@ It highlights cloud-native design principles: scalability, automation, and cost 
 ## 👨‍💻 Author
 
 **Emmanuel Gyau**
-📧 Email: [emmanuel0011@gmail.com](mailto:emmanuel0011@gmail.com)
+📧 Email: [emmanuelgyau0011@gmail.com](mailto:emmanuelgyau0011@gmail.com)
 📱 Phone: +233 534268933
 
 
